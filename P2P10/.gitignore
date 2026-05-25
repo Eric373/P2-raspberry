@@ -1,0 +1,7 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+
+# Ignorar programas en C compilados
+subscriber
+cliente_c
